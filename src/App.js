@@ -5,7 +5,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import Navbar from "./components/layout/Navbar";
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import { Route, Routes} from "react-router-dom";
 import NotFound from "./components/pages/NotFound";
 import AddUser from "./components/users/AddUser";
 import EditUser from "./components/users/EditUser";
